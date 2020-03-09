@@ -1,0 +1,38 @@
+﻿.titlePage {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    background-image: url("Image/ngói.jpeg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.firsttitle {
+    color: white;
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.frameTitle {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+}
+
+.paintTitle {
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: skyblue;
+}
+.highlight {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
